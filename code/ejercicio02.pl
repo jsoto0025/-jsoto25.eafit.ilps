@@ -10,5 +10,6 @@ mujer(antonia).
 %relation
 papa(antonia,jairo).
 %rules
-padre:-papa(antonia,jairo),mujer(antonia).
+padre:-papa(antonia,jairo), mujer(antonia).
+
 

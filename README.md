@@ -18,7 +18,15 @@ Las lineas de comentario empiezan con **%**
 
 `% Esto es un comentario`
 
+# Rules
 
-# Referencias:
+Directiva de negación como falla **\+**
+
+`hasnochild(X):- \+ parent(X,_)`
+
+
+
+# Referencias
 [A Tutorial Introduction to Prolog - Mehmet Gençer](http://mgencer.com/files/PrologTutorial.html)
 
+ 
